@@ -15,9 +15,11 @@ Suggested configuration: Amiga 1200 with 68020/14MHz or faster with minimum 0.5M
 ## Development environment
 
 After cloning the repo into e.g. DH0:/Citadel, add the following to your startup-sequence:
-assign >NIL: DATA: SYSTEM:Citadel/DATA/game
-assign >NIL: CODE: SYSTEM:Citadel/CODE
-assign >NIL: EDITOR: SYSTEM:Citadel/Editor
+
+- assign >NIL: DATA: SYSTEM:Citadel/DATA/game
+- assign >NIL: CODE: SYSTEM:Citadel/CODE
+- assign >NIL: EDITOR: SYSTEM:Citadel/Editor
+
 
 A system with minimum 1MB chip and 4 MB Fast memory is required. Can be a real Amiga or emulator-based.
 
@@ -38,5 +40,6 @@ A similar procedure should be followego to assemble and run other parts of the g
 
 ## Copyright, License and Final Notes
 Copyright (C) 1995, 2022 Pawel Matusz, Artur Bardowski, Artur Opala.
+
 This software is free to copy and use for non-commercial purposes under the terms of the GNU GPL-3.0 license. 
 The authors accept no responsibility for any damage or loss caused by using it. 
