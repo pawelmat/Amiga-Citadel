@@ -1,0 +1,139 @@
+
+                  CYTADELA LEVEL EDITOR - dokumentacja (?)
+                  ----------------------------------------
+
+WYBOR SCIAN
+-----------
+ Kliknij LMB na dowolna sciane/kolumne/przedmiot/przeciwnika aby go wybrac.
+ Kliknij RMB na sciane, aby ja odwrocic, RMB na przedmiot aby umieszczac go
+ u gory.
+ Na mapie LMB ustawia sciany, RMB usuwa.
+
+
+PANEL - opis gadgetow (od prawej)
+---------------------------------
+ Strzalki - przesuwanie mapy o 5 pozycji
+
+ 1 2 3    - wybor zestawu scian
+
+ E1 E2    - liczniki odpowiednio dla 1 i 2 przeciwnika. Gorny przedstawia
+            energie (zalecane 10-... bo np. pistolet zabiera 5, miotacz ognia
+            25. Energia 50 to juz niezly mafiozo)
+            Dolny to szybkosc przeciwnika (zalecane 100-150, dla porownania 220
+            to twoja szybkosc ale dla przeciwnika to troche za duzo)
+            Przy ustawianiu przeciwnika na mapie jego energia i szybkosc zostaja
+            ustawione tak jak aktualne wskazanie licznikow.
+
+            Liczniki te dzialaja inaczej przy wcisnietym A (patrz nizej).
+            Gorny licznik ma jeszcze inne znaczenie przy ustawianiu gracza.
+
+ A        - po wcisnieciu na licznikach E1,E2 edytowane sa agresja, bronie
+            i odpornosc przeciwnikow.
+
+            Gorny licznik: (pola od lewej)
+            --------------
+              1 i 2 (od lewej!) oznaczaja odpornosc przeciwnika, czyli czym
+              mozna go trafic.
+             POLE_1: bit 1 - rakieta, 0 - blaster
+             POLE_2: bit 1 - kula ognia, 0 - pocisk
+                 np. ustawienie tych pol na 2 i 3  (bitowo: 10 i 11) oznacza,
+                 ze przeciwnik dostaje rakieta, ogniem i pociskami.
+
+              3 pole (od LEWEJ!) oznacza bron, jaka uzywa przeciwnik.
+             POLE_3: (wartosc:) 1 - pistolet, 2 - strzelba, 3 - kar.maszynowy
+                     4 - miotacz ognia, 5 - blaster, 6 - wyrzutnia rakiet.
+                 np. ustawienie na 4 daje przeciwnikowi do reki miotacz.
+
+            Dolny licznik:
+            --------------
+              Oznacza agresje przeciwnika. 10 jest wartoscia srednia,
+              15 dosc duza, 50 to raczej b.duzo (to trzeba wytestowac), 
+              natomiast przy 1 sa prawie niegrozni. (max. 299)
+
+ B        - ustawianie blokady drzwi. Po wybraniu: LMB ustawia blokade na danym
+            polu, RMB usuwa.
+
+ P        - LMB na nim - ustawienie pozycji poczatkowej gracza. Jest on obrocony
+            o kat wskazany aktualnie przez gorny licznik E1. (0-256 gdzie 0 to
+            skierowanie w prawo).
+            RMB na nim ustawia pole, na ktore trzeba wejsc aby zakonczyc level.
+
+ ?        - wlacza i wylacza podglad scian.
+
+ G        - wlacza opcje edycji guzikow/kart/teleportow (patrz nizej)
+          Ponizsze opcje sluza do edycji guzikow i czesc z nich dziala
+          dopiero po wcisnieciu G.
+
+ Strzalki - przesuwaja numerowane pola edycji (00 do 128, wskazane do 99)
+
+ CLR      - czysci cale aktualne pole edycji.
+
+ -2       - uzywac tylko przy przyciskach, sluzy do edycji opcji dla przycisku
+            wylaczanego.
+
+ OD       - funkcja Open Door (otworz drzwi)
+ CD       - Close Door (zamknij drzwi)
+ SB       - Set Block (ustawienie blokady drzwi)
+ CB       - Clear Block (usuniecie blokady)
+ W        - Ustawienie/Usuniecie sciany (Wall)
+ I        -    -''-         -''- przedmiotu (Item)
+ C        -    -''-         -''- kolumny (Collumn)
+
+
+Przy funkcjach W,I,C trzeba miec wybrana sciane/przedm./kol. jaka chcesz ustawic
+i dopiero wtedy kliknac LMB na dana funkcje. Klikniecie RMB oznacza opcje
+usuniecia sciany/p/k (nie jest wowczas istotne to co wybrane)
+
+EDYCJA PRZYCISKU
+----------------
+ 1- Wybierz G
+ 2- na mapie wybierz przycick i uzywajac kursora do ustawiania scian kliknij na
+   niego. W polu pokaze sie: G <lokacja_X lokacja_Y>
+ 3- Odpowiednio wybierz funkcje, w polu ukaze sie jej symbol (np. OD)
+ 4- Na mapie wskaz lokacje dla danej funkcji (np. tu drzwi do otwarcia),
+    zwracajac uwage na kierunek (gdy trzeba)
+ Punkty 3 i 4 mozesz teraz powtarzac
+ 5- OPCJONALNIE: gdy chcesz przypisac jakies funkcje guzikowi wyciskanemu,
+    kliknij na -2 (w polu ukaze sie #) i powtarzaj punkty 3 i 4
+
+Przyklady: G 1013 OD 1430 SB 1429 I 1024
+           G 4050 W 2142 # W 0523
+
+EDYCJA SLOTU NA KARTE
+---------------------
+ 1- wybierz G
+ 2- na mapie wybierz POLE ze slotem NIEUZYTYM. Teraz wybierz odpowiedni
+    kierunek (nie zwazajac na kierunek polozenia slotu) okreslajac w ten
+    sposob kolor karty jaka uruchomi slot:
+        GORA        - R (czerwona)
+        PRAWO       - G (zielona)
+        DOL,LEWO    - B (niebieska)
+    W polu pokaze sie: K i kolor karty (R,G,B) i lokacja slotu.
+ 3,4 - tak jak przy przycisku.
+
+Przyklady: KR 1350 SB 1413
+           KB 2062 W 1225 C 1205 CD 1230
+
+EDYCJA TELEPORTU
+----------------
+ 1- wybierz G
+ 2- na mapie wybierz teleport. W polu pokaze sie: T i jego lokacja
+ 3- na mapie wybierz pole docelowe teleportu (polu ukaze sie ta lokacja)
+ Nie wybieraj NIC WIECEJ!
+
+
+
+
+UWAGI:
+------
+Edytor przyciskow NIE SPRAWDZA prawie wcale POPRAWNOSCI SKLADNI, trzeba wiec
+bardzo uwazac.
+Lepiej nie ustawiac NIC na polu 00-00.
+Nie robic w miare mozliwosci scian "papierowych", przynajmniej nie bardzo duzo.
+Pamietaj ze sciany sa JEDNOSTRONNE.
+Nie ustawiaj przeciwnikow na kolumnach nieprzechodnich (dwoch pierwszych).
+
+
+
+                                                                     KANE
+

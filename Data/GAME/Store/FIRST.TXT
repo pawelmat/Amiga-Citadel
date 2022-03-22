@@ -1,0 +1,23 @@
+
+
+                              ------------------
+                              |    CYTADELA    |
+                              ------------------
+
+                            Wersja Demonstracyjna!
+                                  (preview)
+
+                  AUTOR:         VIRTUAL DESIGN
+
+                  WYDAWCA:       ARRAKIS SOFTWARE
+                                 UL. WITA STWOSZA 73 (POK. 101/102)
+                                 80-305 GDANSK
+
+                                 TEL. (058) 52-45-11 wew.55
+                                      (058) 52-13-12 wew.55
+                                 FAX. (058) 57-63-18
+
+   Prosze przeczytac plik CYTADELA.DOC, zawierajacy informacje na temat gry.
+   W pliku KEYS.DOC znajduje sie spis dostepnych w czasie gry klawiszy.
+
+                       ...NACISNIJ LEWY PRZYCISK MYSZY...

@@ -1,0 +1,17 @@
+UPDATE LIST FILE:
+-----------------
+
+- xx.02.1994 - idea and first procedures
+- 18.12.1994 ??? (first record)
+- 19.12.1994 A3000 fix
+- 05.01.1995 WERSJA DEMONSTRACYJNA (shooting, sounds, 2 enemies)
+- ... (facts unrecorded) ...
+- 12.03.1995 ENEMY1 - walking, shooting
+- 13.03.1995 xxxxxxx
+- 21.03.1995 xxxxxxxxxxxxx (do 23.03)
+- 22.03.1995 3-level DETAIL, fire,  two enemies - sztuczna inteligencja
+- 01.04.1995 Map added, some bugs fixed. I think diz is the final version.
+- 05.04.1995 Fixed loader bug, zero-table bug. RotTable bug left (too little)
+- 01.05.1995 Weapon damage, ammo drop
+- 06.05.1995 Fixed all known bugs, Bad-Good end of level
+- 07.05.1995 Level Editor finished (uff... )

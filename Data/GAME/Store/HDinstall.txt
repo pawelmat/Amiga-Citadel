@@ -1,0 +1,68 @@
+
+Instalacja Cytadeli na twardym dysku.
+-------------------------------------
+
+1. Wymagania instalacyjne
+
+Aby zainstalowaç Cytadelê, musisz posiadaç:
+- ponad 4 MB wolnego miejsca na twardym dysku
+- minimum 1.5 MB pamiêci, w tym conajmniej 1 MB pamiêci typu CHIP
+- 5 oryginalnych dyskietek z Cytadelæ
+
+
+2. Zainstalowanie Cytadeli
+
+- wczytaj program instalacyjny, znajdujæcy siê na pierwszym dysku z Cytadelæ
+  poprzez wpisanie spod CLI:
+  DF0:INSTALL
+- po uruchomieniu programu instalacyjnego wykonuj polecenia ukazujæce siê na
+  ekranie.
+  Najpierw zostaniesz poproszony o podanie õcieþki instalacyjnej, czyli
+  partycji twardego dysku i katalogu w którym chcesz zainstalowaç Cytadelê.
+  UWAGA: zarówno podana partycja jak i katalog muszæ juþ istnieç! W przeciwnym
+  wypadku nastæpi bîæd instalacji. Utwórz wówczas odpowiednie katalogi i
+  ponownie uruchom program instalacyjny.
+  Po podaniu õcieþki instalacyjnej zostanie ona zapisana w katalogu systemowym
+  S: pod nazwæ Cytadela.cfg.
+  Nastêpnie rozpocznie siê instalacja. Co pewien czas program bêdzie prosiî o
+  wîoþenie do dowolnej stacji dysków odpowiednich dyskietek z Cytadelæ. Wykonuj
+  te polecenia.
+  Kompletna instalacja trwa okoîo 8 minut.
+- prawidîowe zakoñczenie instalacji obwieszczone zostanie odpowiednim
+  komunikatem. Na proõbê programu naciõnij dowolny klawisz, aby opuõciç
+  program instalacyjny.
+- po opuszczeniu programu instalacyjnego zresetuj komputer (CTRL-A-A).
+
+
+3. Uruchamianie zainstalowanego programu.
+
+Aby uruchomiç Cytadelê zainstalowanæ na twardym dysku naleþy:
+- w przypadku uruchamiania z CLI wejõç do katalogu w którym zostaîa
+  zainstalowana gra, wejõç do utworzonego w nim katalogu 'Cytadela' i
+  uruchomiç plik 'Cytadela' (poprzez wpisanie jego nazwy)
+
+UWAGA: w czasie trwania gry program poprosi czasem o wîoþenie do dowolnej
+stacji oryginalnej dyskietki nr 4 z Cytadelæ. Jest to niestety niezbêdna
+forma zabezpieczenia siê przed piractwem komputerowym.
+
+
+4. Uwagi odnoõnie instalacji.
+
+Zalecane jest instalowanie i uruchamianie zainstalowanej Cytadeli spod CLI
+(czyli AmigaDOS), a nie spod Workbencha. W przypadku wykonywania powyþszych
+dziaîañ pod Workbenchem wystæpiç mogæ nieprzewidziane bîêdy instalacji lub
+program moþe nie dziaîaç prawidîowo (z powodu niewielkiej iloõci pamiêci,
+róþnych konfiguracji Workbencha itp).
+Jeþeli program instalacyjny lub Cytadela zawiesi siê po uruchomieniu z
+Workbencha, zresetuj komputer i ponów dziaîania spod CLI (np. uruchamiajæc
+komputer bez uþycia startup-sequence lub z innej dyskietki, która uruchomi
+tylko DOS).
+
+Jeþeli przekopiujesz Cytadelê do innego katalogu niþ podany podczas
+instalacji, naleþy dowolnym edytorem tekstu zmieniç w pliku S:Cytadela.cfg
+õcieþkê dostêpu dla Cytadeli na nowæ.
+ PRZYKÎAD: gdy Cytadela zostaîa zainstalowana w katalogu dh0:programy/gry,
+ plik S:Cytadela.cfg zawiera: DH0:PROGRAMY/GRY.
+ Po przeniesieniu gry do katalogu dh1:inne, naleþy zmieniç zawartoõç pliku
+ S:Cytadela.cfg na: DH1:INNE.
+

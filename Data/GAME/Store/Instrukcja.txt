@@ -1,0 +1,566 @@
+
+
+
+
+SPIS TREÕCI
+-----------
+WSTÊP
+CZÊÕÇ 1 - HISTORIA
+CZÊÕÇ 2 - ÎADOWANIE PROGRAMU
+ A. WYMAGANIA SPRZÊTOWE
+ B. ROZPOCZÊCIE ÎADOWANIA
+ C. DALSZY PRZEBIEG ÎADOWANIA.
+CZÊÕÇ 3 - INTRODUKCJA
+CZÊÕÇ 4 - ZABEZPIECZENIE
+CZÊÕÇ 5 - MENU GÎÓWNE
+CZÊÕÇ 6 - CEL GRY
+CZÊÕÇ 7 - PRZEBIEG GRY
+ A. ZARYS OGÓLNY.
+ B. PODZIAÎ EKRANU
+ C. DOSTÊPNE BRONIE I PRZEDMIOTY
+ D. ZBIERANIE PRZEDMIOToW
+ E. STEROWANIE GRÆ
+ F. MAPA
+ G. ZAPIS STANU GRY
+ H. ROZWIÆZYWANIE ZAGADEK
+ I. PRZECIWNICY I WALKA
+CZÊÕÇ 8 - UWAGI KOÑCOWE
+
+
+
+
+
+WSTÊP
+-----
+
+Zanim zaczniesz dalej czytaç, odîóþ na chwilê instrukcjê i poklep siê po
+plecach, gdyþ wîaõnie zostaîeõ posiadaczem jednej z najlepszych polskich gier.
+Skæd ta pewnoõç? Po pierwszych minutach spêdzonych w Cytadeli sam siê
+przekonasz. Na pewno prêdko jej nie opuõcisz. Cytadela rozpoczyna nowæ erê
+gier na Amigê - gier umieszczajæcych Ciê we wspaniaîym, realistycznym,
+trójwymiarowym õwiecie. Nie traç wiêc czasu - spróbuj swoich siî w Cytadeli.
+Powodzenia.
+
+
+
+CZÊÕÇ 1 - HISTORIA
+------------------
+
+Jest rok 2305. Trwa intensywny militarny i gospodarczy podbój kosmosu.
+Przyczóîki zbrojne znajdujæ siê na wszystkich najdalej wysuniêtych planetach
+opanowanego fragmentu galaktyki. Stanowiæ one jedne z najbardziej
+strategicznych punktów ziemskiego systemu obrony i komunikacji
+miêdzyplanetarnej.
+
+Jeden z takich zbrojnych przyczóîków cywilizacji ziemskiej znajdowaî siê
+niegdyõ na dalekiej, maîej planetce oznaczonej na mapach gwiezdnych jako
+B104-GS12. Kiedy jednak ekspansja posunêîa siê dalej, baza wojskowa na
+B104-GS12 utraciîa swoje militarne znaczenie. Przez pewien czas stanowiîa
+jeszcze punkt przeîadunkowy i stacjê paliwowæ dla udajæcych siê dalej statków,
+jednak z powodu swego poîoþenia na uboczu gîównych szlaków komunikacyjnych
+równieþ i tæ funkcjê peîniîa niedîugo. Po dobudowaniu dodatkowych kompleksów,
+bazê zamieniono na pewien czas w koloniê karnæ o zaostrzonym rygorze. W dwa
+lata póûniej oficjalnie zamkniêto jæ, rzekomo z powodu niebezpiecznego
+poîoþenia B104-GS12 na trasie olbrzymiego roju meteorytów. Niedîugo wszyscy
+o niej zapomnieli - jeszcze jeden nikomu niepotrzebny pomnik ludzkiej potêgi
+w kosmosie.
+
+Jak siê jednak okazaîo, ktoõ o niej caîy czas pamiêtaî. Wojskowa Rada
+Galaktyczna miaîa swoje wîasne plany zwiæzane z bazæ na B104-GS12. Okryta
+õcisîæ tajemnicæ wojskowæ, baza znana byîa wõród wtajemniczonych jako
+"Cytadela". Juþ w niecaîe póî roku po oficjalnym zamkniêciu Cytadeli, na
+B104-GS12 przybywaç zaczêîy wojskowe transportery, przywoþæc materiaîy na
+rozbudowê bazy oraz skomplikowany sprzêt laboratoryjny. Uruchomiono znów
+kompleks wiêzienny, gdzie w tajemnicy umieszczano skazañców z innych kolonii
+karnych. W kilka miesiêcy póûniej na B104-GS12 ruszyîo olbrzymie, tajne
+laboratorium wojskowe. Prowadzono w nim niedozwolone badania nad nowymi typami
+broni biologicznych, przede wszystkim genetycznych. Do ciêþkiej pracy i
+niebezpiecznych badañ wykorzystywani byli specjalnie w tym celu sprowadzani
+wiêûniowie. Tajemnica Cytadeli znana byîa tylko nielicznym. 
+
+Skomplikowane badania i eksperymenty powoli posuwaîy siê do przodu.
+Ostatecznie nadszedî wspomniany rok 2305. Jak dotæd Cytadela utrzymywaîa z
+Ziemiæ staîy kontakt. Nagle, zupeînie bez powodu kontakt z B104-GS12 siê
+urwaî. Zawiodîy wszelkie próby odzyskania îæcznoõci. Cytadela nie odpowiadaîa
+na þadne wezwania. Zupeînie, jakby przestaîa istnieç. Po kilku dniach zwoîano
+pilne zebranie tej czêõci Wojskowej Rady Galaktycznej, która wiedziaîa o
+istnieniu bazy. Zdecydowano o natychmiastowym wysîaniu na B104-GS12 silnego
+zbrojnego desantu w celu wyjaõnienia sytuacji.
+
+Juþ w dwa dni póûniej wystartowaî w kierunku B104-GS12 nowoczesny
+nadprzestrzenny statek bojowy X16 z potêþnæ, ponad 950-osobowæ wojskowæ
+obsadæ. O celu wyprawy wiedziaîo tylko dowództwo.
+Lot na poîoþonæ na peryferiach galaktyki B104-GS12 trwaî prawie dwa miesiæce.
+Dopiero gdy niewielka planeta ukazaîa siê na ekranach statku, zaîoga zostaîa
+powiadomiona o przydzielonym im zadaniu. Za wszelkæ cenê opanowaç sytuacje w
+Cytadeli i przywróciç îæcznoõç, w razie niemoþliwoõci wykonania tego zadania
+zniszczyç obiekt - tak brzmiaîy krótkie i zwiêzîe rozkazy.
+
+X16 zbliþyî siê do planety, daremnie próbujæc nawiæzaç îæcznoõç z poîoþonæ na
+powierzchni Cytadelæ. Trwaîy ostatnie przygotowania do desantu - sprawdzanie
+broni, scoute'ów - maîych statków zwiadowczych i boasterów - podprzestrzennych
+myõliwców. Wszystko wydawaîo siê toczyç zgodnie z planem, gdy nagle rzekomo
+niezawodny system îæcznoõci i obrony X16 przestaî funkcjonowaç. Mimo tych
+trudnoõci zdecydowano siê wysîaç na B104-GS12 zwiadowczego scoute'a w celu
+dokonania bliskich obserwacji Cytadeli.
+
+Niedîugo potem w stronê planety wystartowaî Scout 01 z dwoma pilotami na
+pokîadzie. Mieli okræþyc kilkukrotnie planetê dokonujæc zdjêç i pomiarów,
+uwaþajæc na system obronny Cytadeli. W chwilê po starcie scoute'a nastæpiîa
+jednak katastrofa.
+
+Olbrzymi X16 zostaî w uîamku sekundy zdezintegrowany przez rakietê wystrzelonæ
+z Cytadeli. Uszkodzony system obronny statku nie zareagowaî na zagroþenie,
+co okazaîo siê tragiczne w skutkach.
+
+Scout 01 z dwoma ocalaîymi czîonkami zaîogi wszedî na orbitê. Zaczêîo koñczyç
+siê paliwo. Ponadto przy przelatywaniu nad Cytadelæ zostaî równieþ uszkodzony
+przez jej system obronny, z niewyjaõnionych przyczyn wîæczony.
+Scout 01 zmuszony zostaî do awaryjnego lædowania, podczas którego zginæî drugi
+pilot.
+
+Ty - ocalaîy pierwszy pilot Scoute'a 01, jedyny ocalaîy czîonek zaîogi X16
+ruszyîeõ w kierunku awaryjnego podziemnego wejõcia do Cytadeli - twojej
+jedynej szansy na ratunek. Zdesperowany i gotowy na wszystko.
+
+Teraz zostaîeõ tylko Ty... i Cytadela.
+
+
+
+CZÊÕÇ 2 - ÎADOWANIE PROGRAMU
+----------------------------
+
+A. WYMAGANIA SPRZÊTOWE
+
+Cytadela wymaga dowolnej Amigi z conajmniej 1 Mb pamiêci. Ze wzglêdu na
+szybkoõç wskazana jest Amiga 1200 z pamiêciæ typu fast.
+Przy niewystarczajæcej iloõci pamiêci zostanie to ogîoszone komunikatem w
+trakcie wczytywania programu.
+
+
+B. ROZPOCZÊCIE ÎADOWANIA
+
+Istniejæ dwa sposoby uruchomienia Cytadeli:
+Pierwszy:
+ - wyîæcz komputer i odczekaj minutê.
+ - wîóþ dyskietkê nr 1 z Cytadelæ do wewnêtrznej stacji dysków.
+ - wîæcz komputer. Cytadela automatycznie siê zaîaduje.
+Drugi:
+ - nagraj Workbench
+ - wîóþ dyskietkê nr 1 z Cytadelæ do wewnêtrznej stacji dysków.
+ - kliknij dwukrotnie na ikonê dysku nr 1 z Cytadelæ.
+ - kliknij dwukrotnie na ikonê Cytadeli. Gra zaîaduje siê automatycznie.
+
+Zalecane jest posiadanie dodatkowej stacji dysków. Naleþy wówczas wîoþyç do
+niej dyskietkê oznaczonæ jako Cytadela 2.
+
+Jeþeli w ciægu póî minuty od rozpoczêcia îadowania nie ukaþe siê ekran
+oznajmiajæcy sprawdzanie konfiguracji i Cytadela nie bêdzie siê wgrywaç,
+naleþy wyîæczyç komputer i powtórzyç procedurê îadowania.
+
+Jeþeli mimo to po kilkunastu próbach gra nie bêdzie siê chciaîa zaîadowaç
+oznacza to, þe najprawdopodobniej jest to wada dyskietki. Firma ARRAKIS
+SOFTWARE bezpîatnie wymieni kaþdæ wadliwæ dyskietkê z Cytadelæ. W razie
+reklamacji naleþy zwracaç uszkodzonæ dyskietkê bezpoõrednio do ARRAKIS
+SOFTWARE, wyîæcznego dystrybutora programu.
+
+
+C. DALSZY PRZEBIEG ÎADOWANIA.
+
+Po pokazaniu plansz tytuîowych program poprosi o wîoþenie dyskietki oznaczonej
+jako Cytadela 2.
+
+Teraz i w kaþdej innej chwili, kiedy program poprosi o konkretnæ dyskietkê,
+naleþy jæ wîoþyç do dowolnej stacji dysków spoõród df0 (wewnêtrznej), df1 i
+df2 (zewnêtrznych). W þadnym wypadku nie naleþy zmieniaç dyskietek bez
+wyraûnego þædania programu!
+
+Po wîoþeniu dyskietki nr 2 zacznie siê introdukcja.
+
+
+
+CZÊÕÇ 3 - INTRODUKCJA
+---------------------
+Wspaniaîa, peînoekranowa introdukcja wprowadzi Ciê w õwiat Cytadeli. W kaþdej
+chwili moþesz jæ przerwaç naciskajæc lewy przycisk myszki (LPM), przycisk w
+joysticku (FIRE) lub klawisz escape. Ponadto spacja i F10 zmieniajæ rozmycie
+obrazu.
+
+
+
+CZÊÕÇ 4 - ZABEZPIECZENIE
+------------------------
+Podczas gry moþesz zostaç poproszony o udowodnenie, þe posiadasz oryginalnæ
+wersjê Cytadeli. Zabezpieczenie to stanowi moþe pewnæ niedogodnoõç, jest
+jednak koniecznoõciæ z powodu piractwa komputerowego.
+Po ukazaniu siê ramki z napisem "zabezpieczenie" poproszony zostaniesz o
+podanie 5 liter z niniejszej instrukcji. Program poda numer strony i literê,
+od której masz zaczæç wpisywanie. Pamiêtaj! Pytanie odnosi siê DO SPECJALNEJ
+LINIJKI TEKSTU, UMIESZCZONEJ NA DOLE KAÞDEJ STRONY INSTRUKCJI!
+
+Przykîad:
+Pytanie: Podaj 5 liter zaczynajæc od 3 ze strony 1.
+Odpowiedû: Odszukaj specjalnæ linijkê tekstu na stronie 1. Piêç liter
+poczynajæc od trzeciej brzmi: VBTRL. Naleþy je wpisaç i nacisnæç return.
+Gdy odpowiedû bêdzie poprawna, pojawi siê napis "OK" i program przejdzie
+dalej.
+
+W przypadku bîêdnej odpowiedzi program daje Ci jeszcze dwie szanse. Gdy ich
+nie wykorzystasz, Cytadela siê zawiesi.
+Jeþeli jesteõ posiadaczem oryginalnej wersji, mogîeõ siê pomyliç przy
+wpisywaniu liter. Jeþeli nie, idû do sklepu i kup oryginalnæ wersjê! Bedziesz
+miaî pewnoõç, þe dziaîa ona poprawnie! Nie wspieraj piractwa komputerowego!
+
+
+CZÊÕÇ 5 - MENU GÎÓWNE
+---------------------
+
+Po zaîadowaiu gry ukaþe siê gîówne menu. Poszczególnæ pozycjê wybierasz
+uþywajæc klawiszy kursora, joysticka lub myszki i po najechaniu na niæ
+naciskajæc return, LPM lub FIRE.
+
+Menu gîówne zawiera nastêpujæce pozycje:
+
+- START - uruchomienie gry.
+
+- WCZYTAJ - wczytanie zapisanego w trakcie gry stanu gry. Po wybraniu tej
+pozycji program wyõwietli nastêpne menu, pozwalajæce wybraç jeden z zapisanych
+stanów gry. Wybierz pozycjê "MENU" aby powróciç do menu gîównego, wybranie
+stanu gry uruchomi jæ od momentu zapisania. Pozycja oznaczona jako "WOLNE"
+oznacza miejsce niewykorzystane i nie moþna jej wybraç.
+
+- OPCJE - Ukaþe menu z opcjami. Moþna tu wybraç poziom trudnoõci gry oraz
+skonfigurowaç jæ odpowiednio do posiadanego sprzêtu. Podmenu zawiera opcje:
+ TRUDNOÕÇ: duþa i maîa. Normalnie gra preznaczona jest dla duþej trudnoõci.
+ Prze wybraniu "maîa" zostaje uîatwiona (mniej przeciwników i mniejsza ich
+ agresja, wypoczynek bohatera pomiêdzy etapami, nie tracenie energii przy
+ zderzeniach ze õcianami, wytrzymalsze bronie itp).
+
+ WIELKOÕÇ OKNA: dozwolone od 1 do 5. Reguluje wielkoõç okna gry. W trakcie
+ grania moþna jeszcze wybraç dodatkowo wielkoõci 6,7 i 8. (patrz: prebieg gry)
+
+ DETALE: maksymalne, õrednie i minimalne. Reguluje stopieñ ukazywania siê
+ detali podczas gry.
+
+ PODÎOGI: tak lub nie. Reguluje pokazywanie siê podîóg i sufitów pomieszczeñ w
+ trakcie gry.
+
+ MENU: powrót do menu gîównego.
+
+Wielkoõç okna, detale i podîogi majæ duþe znaczenie jeþeli chodzi o szybkoõç
+gry. Poprzez ich zmianê moþna dostosowaç szybkoõç gry do moþliwoõci swojego
+sprzêtu i do swoich preferencji. Zmiana tych parametrów jest moþliwa równieþ
+podczas gry (patrz: przebieg gry). Pamiêtaj, þe ustawienie gorszych parametrów
+zmniejsza atrakcyjnoõç gry.
+
+- TRENING - pozwala na wybranie jednego z piêciu poziomów treningowych, które
+pozwalajæ przeçwiczyç posîugiwanie siê broñmi i trudnæ sztukê przeþycia w
+Cytadeli.
+
+- INFO - pokazuje listê pîac i podziêkowañ twórców gry.
+
+
+
+
+CZÊÕÇ 6 - CEL GRY
+-----------------
+
+Celem gry jest zniszczenie Cytadeli i ucieczka z niej. Dokonaç tego moþna
+odnajdujæc szeõç czêõci bomby anihilacyjnej. W kaþdym kompleksie Cytadeli
+znajduje siê jadna z czêõci, umieszczona w ostatnim (trzecim) etapie.
+W kompleksie pierwszym (podziemiach), prowadzæcym tylko do wnêtrza
+Cytadeli nie ma þadnej czêõci bomby.
+Przed opuszczeniem kompleksu naleþy upewniç siê, þe zostaîa z niego zabrana
+czêõç bomby, poniewaþ nie ma moþliwoõci powrotu do raz spenetrowanego
+kompleksu.
+Dopiero po skompletowaniu bomby dostaç siê moþna do centrum, aby zdetonowaç jæ
+i uciec z Cytadeli.
+
+
+
+CZÊÕÇ 7 - PRZEBIEG GRY
+----------------------
+
+
+A. ZARYS OGÓLNY.
+
+Cytadela podzielona jest na 8 duþych kompleksów: podziemia, elektrowniê,
+magazyny, hangar, laboratoria, kanaîy, wiêzienie i centrum. We wszystkich
+kopmleksach oprócz podziemi i centrum znajdujæ siê czêõci bomby do zebrania
+(patrz: cel gry).
+
+
+B. PODZIAÎ EKRANU
+
+Ekran podzielony jest na kilka czêõci:
+U góry wiêkszæ czêõç ekranu zajmuje okno przedstawiajæce trójwymiarowe pole gry.
+Dolnæ czêõç zajmuje panel kontrolny. Uwidocznione sæ na nim od lewej:
+- stan skompletowania bomby.
+- licznik Twojej energii þyciowej.
+- wykres pracy serca, podkreõlajæcy zmêczenie i dekoncentracjê bohetera.
+- kompas pokazujæcy Twój zwrot.
+- okienko pokazujæce aktualnie wybranæ broñ.
+- licznik ukazujæcy posiadanæ do danej broni iloõç sztuk amunicji.
+- trzy liczniki iloõci posiadanych kart magnetycznych - czerwonych,
+zielonych i niebieskich.
+
+Na samym dole ekranu znajduje siê okno dialogowe, w którym pojawiajæ siê
+wszelkie komunikaty.
+
+
+C. DOSTÊPNE BRONIE I PRZEDMIOTY
+
+Dostêpne sæ bronie:
+- Pistolet: Konwencjonalna broñ z której moþna oddawaç pojedyncze strzaîy.
+Siîa raþenia: 5, zasiêg: 8000, magazynek: 10 naboi.
+- Strzelba: Duþy rozrzut, wyrzuca 3 naboje za jednym straîem.
+Siîa raþenia: 5*3, zasiêg: 10000, magazynek: 5 pocisków.
+- Karabin maszynowy: Szybkostrzelna broñ o duþej skutecznoõci na otwartych
+przestrzeniach. Siîa raþenia: 2*3, zasiêg: 10000, magazynek: 10 pocisków.
+- Miotacz ognia: Wystrzeliwuje kule ognia.
+Siîa raþenia: 25, zasiêg: 12000, magazynek: na 5 kul ognia.
+- Blaster: Wystrzeliwuje îadunki skondensowanej energii.
+Siîa raþenia: 20, zasiêg: 12000, magazynek: na 5 îadunków
+- Wyrzutnia rakiet: Wystrzeliwuje niewielkie rakiety.
+Siîa raþenia: 40+wybuch, zasiêg: 12000, wykorzystuje pojedyncze rakiety.
+
+Broñ dostêpna jest dopiero po jej znalezieniu. Po pewnym czasie kaþda broñ
+ulega uszkodzeniu i trzeba znaleûç kolejnæ. Przy próbie strzaîu uszkodzonæ
+broniæ ukaþe siê komunikat o jej uszkodzeniu. Po zmianie trzymanej w rêku
+broni broñ uszkodzona zostanie automatycznie wyrzucona jako bezuþyteczna.
+Po znalezieniu nowej broni bohater pozbywa siê starej i na jej miejsce bierze
+nowæ, nieuszkodzonæ. Ponadto do broni naleþy zbieraç amunicjê. Magazynki
+dodajæ tyle amunicji, ile zostaîo wymienione wyþej przy kaþdej broni.
+
+
+Ponadto znaleûç moþna nastêpujæce przedmioty:
+- Apteczka: dodaje 30 jednostek energii
+- Karta czerwona, zielona i niebieska - uþywane do specjalnych slotów.
+- Odþywka: przyspiesza metabolizm, powoduje przyspieszenie poruszania siê.
+- Flaszka: piwo marki Beer, powoduje u bohatera krótkotrwaîy stan pomrocznoõci
+  jasnej - zaburzenia równowagi i celnoõci.
+- Fragment bomby: patrz: cel gry.
+
+
+D. ZBIERANIE PRZEDMIOToW
+
+Aby wziæç przedmiot leþæcy na podîodze lub np. na beczce, poprostu przejdû nad
+nim lub blisko do niego podejdû.
+
+
+E. STEROWANIE GRÆ
+
+Poruszanie siê:
+- kursor w lewo, ruch myszkæ lub joystickiem w lewo - obrót w lewo
+- kursor w prawo, ruch myszkæ lub joystickiem w prawo - obrót w prawo
+- kursor do przodu, ruch myszkæ lub joystickiem wprzód, LPM - poruszanie siê
+do przodu
+- kursor do tyîu, ruch myszkæ lub joystickiem do tyîu - poruszanie siê do tyîu
+- klawisze 4 i 6 na klawiaturze numerycznej - poruszanie siê w lewo i w prawo
+- prawy przycisk myszki (PPM), FIRE, ENTER, RETURN, SHIFT - strzaî, badanie
+otoczenia, wciskanie przycisków, uþywanie kart.
+
+Inne funkcje klawiatury:
+- spacja: uþywanie rêki, a wiêc badanie otoczenia i wciskanie guzików
+- F1-F7: wybór broni (o ile sæ dostêpne)
+ F1 - nic (pusta rêka)
+ F2 - pistolet
+ F3 - strzelba
+ F4 - karabin maszynowy
+ F5 - miotacz ognia
+ F6 - blaster
+ F7 - wyrzutnia rakiet
+- F8-F10: wybór kart
+ F8 - karta czerwona
+ F8 - karta zielona
+ F8 - karta niebieska
+- ESC: natychmiastowe wyjõcie do gîównego menu
+- TAB lub M: podrêczna mapa
+- TYLDA: 6-stopniowe spowalnianie gry (uþyteczne na bardzo szybkich Amigach)
+- 1-8: zmiana wielkoõci okna gry
+- P: pauza
+- F: wîæczanie i wyîæczanie podîóg i sufitów
+- D: poziom detali - maksymalny, õredni i minimalny
+- Z: wîæczanie i wyîæczanie zakîóceñ wizji
+- N: wîæczanie i wyîæczanie NTSC
+
+
+F. MAPA
+
+Po naciõniêciu klawisza TAB lub M ukaþe siê mapa, rysowana caîy czas w trakcie
+twojej wêdrówki przez Cytadelê. Zaznaczone sæ na niej tylko pola, przez które
+przeszedîeõ i te poîoþone najbliþej nich. Zaznaczone sæ na niej õciany, drzwi
+i przedmioty blokujæce Ci drogê.
+
+
+G. ZAPIS STANU GRY
+
+Po przejõciu kaþdego poziomu zostaniesz poinformowany, ile czasu Ci to zajêîo,
+ilu przeciwników zlikwidowaîeõ oraz ile aktualnie posiadasz czêõci bomby.
+Ponadto zostaniesz zapytany, czy chcesz zapisaç stan gry.
+Jeþeli wybierzesz "TAK", program pozwoli Ci wybraç jedno z piêciu pól do
+zapisu stanu gry oraz pozycjê "PONIECHAJ", której wybranie pozwoli Ci wycofaç
+siê z opcji zapisu. Jeþeli natomiast wybierzesz jednæ z pozycji do zapisu
+(niekoniecznie wolnæ, moþesz zapisaç aktualny stan gry na stary stan gry)
+stan gry zostanie automatycznie zapisany pod nazwæ poziomu, jaki wîaõnie
+przeszedîeõ.
+
+Przykîad: Chcesz zapisaç stan gry po przejõciu drugiego poziomu elektrowni.
+Zostanie on zapisany pod nazwæ ELEKTROWNIA 2.
+
+Zapis gry nastêpuje na dysku 4 z Cytadelæ. Podczas zapisu moþesz zostaç
+poproszony o odbezpieczenie dysku 4, jeþeli nie zrobiîeõ tego wczeõniej.
+Wskazane jest zrobienie zapasowej kopii dysku 4 przed pierwszym zaîadowaniem
+Cytadeli.
+
+Po zapisaniu stanu gry zapamiêtany zostanie stan twojej energii, broni, twoja
+pozycja, ustawienia okna, detali itp - co pozwala na wczytanie i kontynuowanie
+zapisanej gry w dowolnej chwili.
+
+
+H. ROZWIÆZYWANIE ZAGADEK
+
+W Cytadeli zmuszony bêdziesz rozwiæzaç niejednæ zagadkê. Istniejæ drzwi
+zamykane i otwierane przez przyciski lub karty magnetyczne, õciany przestawiane w
+ten sposób, przeîæczne blokady drzwi, teleporty i wiele innych tego typu
+atrakcji.
+
+- Uþycie przycisku.
+  - odwróç siê twarzæ mniej wiêcej w kierunku przycisku
+  - wciõnij spacjê, lub wybierz rêkê (F1) i wciõnij PPM, FIRE, ENTER lub SHIFT
+W ten sposób moþesz wcisnæç lub wycisnæç guzik lub przesunæç dûwigniê w jedno
+z dwóch poîoþeñ. Przyciski mogæ wiêc wykonywaç róþne funkcje, zaleþnie od
+poîoþenia.
+W róþnych kompleksach przyciski wyglædajæ róþnie. Na przykîad w podziemiach sæ
+to niewielkie czaszki z czerwonæ obwódkæ, umieszczone na õcianach.
+
+- Uþycie karty.
+  - odwróç siê twarzæ mniej wiêcej w kierunku slotu na kartê na õcianie
+  - wybierz wîaõciwæ kartê (F8,F9 lub F10)
+  - wîóþ jæ do slotu, wciskajæc PPM, FIRE, ENTER lub SHIFT
+Do slotu moþna wîoþyç tylko jednæ kartê, po czym zostaje on zablokowany. Moþe
+on wiêc wykonaç tylko jednæ funkcjê. Karta zostaje zuþyta.
+Jeþeli bêdziesz chciaî wîoþyç do slotu niewîaõciwæ kartê, zostaniesz o tym
+powiadomiony odpowiednim komunikatem.
+Przy przechodzeniu miêdzy poziomami wszystkie posiadane karty zostanæ Ci
+odebrane. Taki jest jeden z wymogów poruszania siê po Cytadeli i czy chcesz
+czy nie, zobowiæzany jesteõ go przestrzegaç.
+
+- Uþycie teleportu
+  - aby uþyç teleportu po prostu w niego wejdû. Zostaniesz teleportowany do
+miejsca przeznaczenia teleportu.
+
+
+I. PRZECIWNICY I WALKA
+
+Nieustannie bêdziesz miaî do czynienia z róþnego rodzaju przeciwnikami.
+Najczêõciej nie bêdæ do Ciebie przyjaûnie nastawieni, co przejawiaç siê bêdzie
+w mniej lub bardziej skutecznych aktach agresji. Do Ciebie naleþy ich
+tîumienie. Uciszaç nieprzyjacióî moþesz uþywajæc caîego wymienionego wyþej
+arsenaîu. Aby to zrobiç, naleþy wybraç preferowanæ (i posiadanæ) broñ (F1-F7)
+po czym namierzyç delikwanta i odpowiedniæ iloõç razy pociænæç za spust.
+
+Przeciwnicy charakteryzujæ siê zróþnicowanæ agresjæ, siîæ i inteligencjæ.
+Z niektórymi pójdzie Ci jak z pîatka, z innymi bêdziesz miaî ciêþkæ przeprawê.
+Niektórzy zostawiæ Ci na pamiætkê amunicjê, warto wiêc choç spojrzeç z góry na
+pokonanych.
+
+Po uzyskaniu pewnej wprawy, moþna wypracowaç sobie niejednæ taktykê walki z
+róþnymi przeciwnikami. Jedna z nich polega na przykîad na niszczeniu beczek z
+duþej odlegîoõci, zapalajæc znajdujæcych siê w pobliþu nieprzyjacióî, lub na
+napuszczaniu ich na siebie. Wszystko zaleþy od ciebie.
+
+Zwracaj uwagê na pracê twojego serca, pokazujæcæ zmêczenie. Pamiêtaj, þe gdy
+jesteõ zmêczony lub pobity poruszasz siê wolniej i strzelasz mniej celnie.Nie
+mówiæc o stanie niewielkiej trzeûwoõci, w którym praktycznie nie jesteõ zrobiç
+nic sensownego.
+
+
+
+CZÊÕÇ 8 - UWAGI KOÑCOWE
+-----------------------
+
+- Zalecane jest zrobienie kopii zapasowej Cytadeli przed rozpoczêciem gry.
+Pamiêtaj o prawie autorskim i o tym, þe kopiê tê moþesz wykonaç wyîæczie do
+swojego wîasnego uþytku.
+
+- Jeþeli Cytadela zawiesi sie kiedykolwiek podczas grania, wyîæcz na chwilê
+komputer i naraj program od nowa. Jeþeli Cytadela zawiesi siê wiele razy w tym
+samym miejscu, najprawdopodobniej jest to wina wadliwej dyskietki. Firma ARRAKIS
+SOFTWARE bezpîatnie wymieni kaþdæ wadliwæ dyskietkê z Cytadelæ. W razie
+reklamacji naleþy zwracaç uszkodzonæ dyskietkê bezpoõrednio do ARRAKIS
+SOFTWARE, wyîæcznego dystrybutora programu.
+
+- Nie zmieniaj nigdy dysku bez wyraûnego þædania programu! Nieproszona zmiana
+dysku najprawdopodobniej spowoduje zawieszenie Cytadeli.
+
+- Jeþeli grasz za pomocæ klawiatury, zdarzyç siê moþe, þe któryõ klawisz siê
+zatnie - na przykîad bohater zacznie krêciç siê caîy czas w lewo. Aby temu
+zaradziç naleþy ponownie nacisnæç klawisz, który siê zaciæî - w powyþszym
+przypadku kursor w lewo.
+
+
+
+
+Powodzenia! Teraz zostaîeõ tylko Ty... i Cytadela
+
+
+
+
+LISTA PÎAC I PODZIÊKOWAÑ
+------------------------
+Cytadela zostaîa wykonana przez zespóî "VD" w skîadzie:
+
+Pomysî i programowanie                  Paweî Matusz
+Grafika i animacje                      Artur Bardowski
+Grafika do poziomów                     Radosîaw Czeczotka
+Muzyka                                  Artur Opala
+
+
+
+Grafikê do centrum wyjætkowo wykonaî    Artur Bardowski
+
+Gîosów do introdukcji uþyczyli          Artur Opala
+                                        Monika Drzewiecka
+                                        Artur Bardowski
+                                        Piotr Opala
+                                        Dariusz Woîejszo
+Gîosów do gry uþyczyli                  Paweî Matusz
+                                        Zbigniew Matusz
+Poziomy ukîadali
+   podziemia                            Paweî Matusz
+   elektrownia                          Artur Bardowski
+                                        Jakub Bardowski
+                                        R.i M.Gancarz
+                                        Paweî Matusz
+                                        Jan Róþycki
+   magazyn                              Artur Opala
+                                        Jan Róþycki
+   hangar                               Marcin Stangel
+                                        Paweî Matusz
+                                        Jan Róþycki
+   laboratorium                         Paweî Matusz
+   kanaîy                               Jan Róþycki
+   wiêzienie                            Jan Róþycki
+   centrum                              Artur Bardowski
+
+Projekt graficzny okîadki               Artur Bardowski
+
+Opracowanie instrukcji                  Paweî Matusz
+
+System rozpoznawania konfiguracji       Tomasz Kantecki
+
+
+Ponadto autorzy skîadajæ goræce podziêkowania nastêpujæcym osobom:
+
+Jan Róþycki, Gosia Szulc, Tomasz Kantecki, Jakub Bardowski, Sylwia Bochnacka,
+Îukasz Bartnik, Przemysîaw Sadîo, Mariusz Cichy, Agnieszka Narkiewicz,
+Agnieszka Suchocka, oraz pozdrawiajæ wszystkich, którzy pomogli stworzyç
+Cytadelê, a takþe tych, którzy niezbyt przykîadali siê do wspóîpracy.
+
+
+
+
+
+
+

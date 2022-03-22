@@ -1,0 +1,18 @@
+
+                   ... DO UZYTKU PRZEZ VD WYLACZNIE !!! ...
+
+MENU:     0 - File Master
+          5 - Asm One
+          conv - konwerter VD
+
+PLIKI:    df0:GFX/
+          COLS01.DAT   - kolory z IFFC ??
+          ENEMY1A.VIR  - conv, potem pod FM: CUT <nazwa> 0 52000
+          ENEMY1B.VIR
+          WALLS1A.VIR  - tylko conv
+          WALLS1B.VIR
+
+ASM ONE:            
+          f, 70, r edytor.ss, a, (wybrac plik MAP)
+ZAPIS MAPY:         pod nazwa LEVEL01.MAP
+

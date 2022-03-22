@@ -1,0 +1,63 @@
+
+Colours:
+- cols.dat is the indexed palette, formatted as 2 bytes per colour: 0R GB
+- the first 20 colours are fixed and must not be changed. The last 12 can be changed
+
+Enemy stats:
+No A:
+- ABC: Energy (0-1000?)
+- DEF: Speed (0-1000?)
+With A switched on:
+- ABC: hits, hits, weapon
+- DEF: aggression / 50 (i.e. real aggression is this value * 50)
+  
+"ChoiceId":
+0 door, button, wall
+  - left click selects normal wall, right click inverted version
+1 teleport, column, column up, column down
+2 item
+3 enemy
+4 blood
+5 tables - i.e. signs and card slots - the additional things that you can stick on walls
+6 block (?) - B (no draw)
+  - This works on doors. When Block (click left) is in a map position, doors next to that position are blocked and do not automatically open.
+  - brick #50 is printed on the map which changes the door colour to light green
+7 player/end - P (no draw). Clicking Left on "P" puts down player start (red), clicking right on "P" puts down the level end marker (green)
+  - Player has pos and start angle (from enemy tab entry 0?), E takes only cursor pos
+  - brick #18 is printed on the map
+
+"Choice":
+The ID of the actual element selected, or e.g. 0100 0000 in case of block
+
+CursorPos table:
+0 X
+2 Y
+4 cursor direction (up down left right)
+
+Map (40x80?) -> 64x64 (32k + actions + enemies)
+- each element has 8 bytes, 
+  - 0-3 per each direction of the wall
+		- 1 bit LSB: wall invert (you select this by right selecting the wall)
+		- 5 bits: 0 - 31 wall index. 
+		- 2 MSB: blood index, 00 - no blood, other 3 are blood stains
+  - 4 tables (signs) - 2 bits for each direction for 4 walls around the corresponding square
+  - 5 column
+	- 0001 1111 (on LSB 5 bits)
+	- 00x0 		x=0 upper, x=1 lower
+  - 6 item / block
+	- 0001 1111 (on LSB 5 bits) or maybe 0011 1111. There are 20 items that can be displayed (-1 which is the "hand")
+	- 0100 0000 block bit. This means that the square cannot be traversed
+  - 7 enemy
+
+Event logic:
+- T <from loc> <to loc>
+- G <button loc> <action 1> <pos 1> <action 2> .... -2 <actions when button released>
+
+Actions:
+OD <pos> - open door
+CD <pos> - close door
+SB <pos> set Block (i.e. doors around that loc do not automatically open)
+RB <pos> remove Block
+W - wall??
+I - ???
+C - ???
