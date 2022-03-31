@@ -8,7 +8,7 @@ It contains the original code and data, although some of it is missing - for exa
 
 ## System Requirements
 
-Minimum configuration: Any Amiga with a minimum of 0.5MB Chip + 0.5MB other (prefferably Fast) memory. Additional memory is required for WHDLoad to run.
+Minimum configuration: Any Amiga with a minimum of 0.5MB Chip + 0.5MB other (prefferably Fast) memory.
 
 Suggested configuration: Amiga 1200 with 68020/14MHz or faster with minimum 0.5MB Chip and 1MB+ Fast memory. 
 
