@@ -39,7 +39,7 @@ In order to run the main game engine from assembler:
 A similar procedure should be followego to assemble and run other parts of the game (such as the menu or the intro) although some data files might be not in the right locations or just missing - this needs sorting out.
 
 ## Copyright and License
-Copyright (C) 1995, 2022 Pawel Matusz, Artur Bardowski, Artur Opala.
+Copyright (C) 1995, 2022 Virtual Design
 
 This software is free to copy and use for non-commercial purposes under the terms of the GNU GPL-3.0 license. 
 
