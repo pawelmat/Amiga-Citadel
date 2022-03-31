@@ -4,7 +4,7 @@
 
 This is the original version of the 1995 Amiga game "Citadel" by Virtual Design.
 
-It contains the original code and data, although some of it is missing - for example the intro animations are not there any more. It also contains the editor which has been moved into a separate folder and slightly updated for the purpose of 1.3 Citadel "Remonstered". Note: this repo does not include the "Remonstered" engine version.
+It contains the original code and data, although some of it is missing - for example the intro animations are not there any more. It also contains the editor which has been moved into a separate folder and slightly updated for the purpose of Citadel 1.3 "Remonstered". Note: this repo does not include the "Remonstered" engine version.
 
 ## System Requirements
 
